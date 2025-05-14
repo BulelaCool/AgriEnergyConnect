@@ -1,0 +1,18 @@
+﻿<form method="get" asp-action="FilterProducts">
+    <input name="category" placeholder="Category" />
+    <input type="date" name="from" />
+    <input type="date" name="to" />
+    <button type="submit">Filter</button>
+</form>
+
+<table>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Category</td>
+            <td>@item.ProductionDate</td>
+            <td>@item.Farmer.Name</td>
+        </tr>
+    }
+</table>
