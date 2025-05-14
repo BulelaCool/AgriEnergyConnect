@@ -1,7 +1,6 @@
 # Agri-Energy Connect Platform
 
-Agri-Energy Connect is a role-based ASP.NET Core MVC web application that connects agricultural producers (Farmers) with energy service providers (Employees). Employees can register farmers, while farmers can log in to manage and track their product listings.
-This project is a prototype web application built with **ASP.NET Core MVC** and **Entity Framework Core**. It supports a role-based access system for two user roles: **Employees** and **Farmers**.
+Agri-Energy Connect is a web-based platform built with ASP.NET Core MVC that facilitates collaboration between agricultural producers (Farmers) and energy sector workers (Employees). The application supports secure, role-based access where Employees can create and manage Farmer accounts, while Farmers can log in to view and manage their own product listings. The system provides streamlined workflows for data entry, product tracking, and role-specific dashboards.
 
 ## Table of Contents
 
