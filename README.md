@@ -41,7 +41,7 @@ This project is a prototype web application built with **ASP.NET Core MVC** and 
 1. **Clone the repository:**
 
 ```bash
-https://github.com/your-username/AgriEnergyConnect.git
+[https://github.com/your-username/AgriEnergyConnect.git](https://github.com/BulelaCool/AgriEnergyConnect.git)
 ```
 
 2. **Navigate into the project folder:**
